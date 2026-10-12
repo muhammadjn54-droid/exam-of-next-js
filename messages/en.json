@@ -1,0 +1,27 @@
+{
+  "HomePage": {
+    "title": "Hello world!",
+    "usersLink": "Go to users"
+  },
+  "UsersPage": {
+    "title": "Users",
+    "loading": "Loading...",
+    "name": "Name",
+    "description": "Description",
+    "images": "Images",
+    "add": "Add",
+    "edit": "Edit",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "addImage": "Add image",
+    "completed": "Completed",
+    "noImages": "No images",
+    "newUser": "New user",
+    "editUser": "Edit user",
+    "addImageTitle": "Add image",
+    "info": "Info",
+    "back": "Back",
+    "userDetails": "User details"
+  }
+}
